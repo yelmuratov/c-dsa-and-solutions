@@ -1,5 +1,5 @@
 1. Grade statistics
-Read up to 100 grades into an array. Functions: read_grades, find_max, find_min, calculate_average, print_grades. Teaches: declaring arrays, indexing, passing arrays to functions, integer vs double division.
+Read up to 100 grades into an array. Functions: read_grades, find_max, find_min, calculate_average, print_grades. Teaches: declaring arrays, indexing, passing arrays to functions, integer vs double division. ✅
 
 2. Array toolkit
 Functions: reverse(arr, n), contains(arr, n, value), count_occurrences(arr, n, value), sum(arr, n). Fill an array from user input, then run each function and print results. Teaches: modifying arrays in place, linear search, returning found/not-found.
